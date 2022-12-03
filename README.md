@@ -5,9 +5,9 @@ Manipulate the dataset using SAS Studio software and to produce a report
 that contains appropriate graphs and statistics in order to provide useful insights for business
 analysis.
 ### Output:
-- [Exported report](https://github.com/Wenying-Wu/Data-Analysis-and-Report-by-SAS/blob/main/EPL%20Report-results.pdf)
+- [Exported report](https://github.com/wenyingw/Data-Analysis-and-Report-by-SAS/blob/main/EPL%20Report-results.pdf)
 
-- [SAS workfile](https://github.com/Wenying-Wu/Data-Analysis-and-Report-by-SAS/blob/main/EPL%20Report.sas)
+- [SAS workfile](https://github.com/wenyingw/Data-Analysis-and-Report-by-SAS/blob/main/EPL%20Report.sas)
 
 
 
